@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Python-ffffff?style=flat&logo=Python&logoColor=3776AB"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/></a>
-  <img src="https://skillicons.dev/icons?i=aws" height="20"/><img src="https://img.shields.io/badge/AWS-232F3E?style=flat" height="20"/><br>
+  <img src="https://skillicons.dev/icons?i=aws" height="20"/><br>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
