@@ -1,9 +1,10 @@
 <div align="center">
 
-# KWON YEWON
+  <!-- 1. 상단 캡슐 헤더 -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:94A3B8,60:A5B4FC,100:93C5FD&fontColor=FFFFFF&height=130&section=header&text=KWON%20YEWON&fontSize=40&animation=fadeIn&fontAlignY=50" width="100%" />
 
-**구조와 데이터 흐름을 분석해 요구사항을 빠르게 서비스로 구현합니다.**
-
+  <!-- 2. 바로 아래 타이핑 SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=550&lines=%EA%B5%AC%EC%A1%B0%EC%99%80+%EB%8D%B0%EC%9D%B4%ED%84%B0+%ED%9D%90%EB%A6%84%EC%9D%84+%EB%B6%84%EC%84%9D%ED%95%B4+%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%9D%84+%EA%B5%AC%ED%98%84%ED%95%A9%EB%8B%88%EB%8B%A4.;Backend+%26+Data+Pipeline+Developer;Build+fast%2C+validate+clearly." alt="Typing SVG" />
 
 </div>
 
